@@ -1,5 +1,4 @@
 # WB55-dongle-shield
-USE WB55 dongle shield with Micropython
 
 Using MicroPython in high school offers three key benefits. First, it's simple and lightweight, making it ideal for students to learn programming concepts on microcontrollers like the STM32WB55 dongle.
 Second, it enables real-time experimentation with hardware, helping students bridge the gap between software and electronics. Finally, MicroPython's syntax is similar to Python, which many students already know, allowing them to quickly apply their knowledge to embedded systems.
@@ -10,7 +9,7 @@ The shield for the STM32WB55 dongle offers several advantages, particularly for 
 
 - **OLED Display**: Provides visual feedback and can display data, messages, and sensor readings.
 - **Temperature Sensors**:
-  - **LM75**: Analog temperature sensor for accurate temperature measurement.
+  - **LM75**: I2C temperature sensor for accurate temperature measurement.
   - **DS18S20**: Digital temperature sensor for precise, one-wire temperature readings.
 - **LDR (Light Dependent Resistor)**: Measures ambient light levels, useful for light-sensitive applications.
 - **Push Button**: User input for triggering actions or interacting with programs.
