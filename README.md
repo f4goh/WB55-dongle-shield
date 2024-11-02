@@ -28,7 +28,7 @@ Type "help()" for more information.
 >>> 
 ```
 
-## schematics
+## Schematics
 
 ![schematics](schematics/sheildWB55.png "schematics")
 
@@ -38,7 +38,7 @@ Type "help()" for more information.
 ![board](images/minishield2.png "board")
 
 
-## Sample programs
+## Sample program
 
 ```python 
 from pyb import Pin
