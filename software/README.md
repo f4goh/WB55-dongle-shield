@@ -24,3 +24,6 @@ To convert lm75a.py to lm75a.mpy, execute run.bat file (windows only)
 mpy-cross.exe lm75a.py -o lm75a.mpy -march=armv7emsp
 ```
 
+Just copy all mpy files in dongle root
+
+![root](../images/lib_root.png "root dir")
