@@ -1,3 +1,5 @@
+# MPY bytecode files
+
 The `.mpy` files are **bytecode files** in Python primarily used in **MicroPython** and other Python environments for microcontrollers. They serve a specific purpose for optimizing memory usage and performance on devices with limited resources. Here are their main uses:
 
 ### 1. **Reducing File Size**
@@ -15,7 +17,7 @@ The `.mpy` files are **bytecode files** in Python primarily used in **MicroPytho
 ### Usage Example
    In a MicroPython environment, an `.mpy` file can be generated using the **`mpy-cross`** compiler provided with MicroPython. This compiles a Python file (`.py`) into an optimized `.mpy` file suited for devices like STM32WB55-dongle microcontrollers, and others.
 
-to convert lm75a.py to lm75a.mpy, execute run.bat file (windows only)
+To convert lm75a.py to lm75a.mpy, execute run.bat file (windows only)
 
 
 ```console
